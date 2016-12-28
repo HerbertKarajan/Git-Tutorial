@@ -1,11 +1,3 @@
-title: (0)Git 使用
-speaker: Karajan
-url: https://github.com/HerbertKarajan/Git-Tutorial
-transition: slide3
-files: /js/zoom.js
-theme: moon
-usemathjax: yes
-
 
 [slide]
 # Git 使用
