@@ -1,9 +1,6 @@
 
-[slide]
 # Git 使用
 #### <small><a href="https://github.com/HerbertKarajan/">@Karajan</a></small>
----
-## <a class="btn btn-lg btn-success" style="font-size:20px;" href="https://github.com/HerbertKarajan/Git-Tutorial">Download PPT</a>
 
 [slide]
 ## 目录
