@@ -1,0 +1,20 @@
+{
+  "name": "Git-Tutorial",
+  "version": "1.0.0",
+  "description": "Git使用教程",
+  "dependencies": {
+    "nodeppt": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodeppt start -d ./"
+  },
+  "keywords": [
+  ],
+  "author": "midday",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HerbertKarajan/Git-Tutorial"
+  },
+  "license": "MIT"
+}
