@@ -2,14 +2,14 @@
 # Git 使用
 #### <small><a href="https://github.com/HerbertKarajan/">@Karajan</a></small>
 
-[slide]
+
 ## 目录
 ---
 - Git 本地操作 {:&.rollIn}
 - Git 远程协作
 - Git 图形化工具的使用
 
-[slide]
+
 ## 学习资料
 - 入门篇
     - Git 简明教程  
