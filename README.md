@@ -1,5 +1,4 @@
 title: (0)Git 使用
-
 speaker: Karajan
 url: https://github.com/HerbertKarajan/Git-Tutorial
 transition: slide3
