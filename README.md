@@ -8,20 +8,17 @@ theme: moon
 usemathjax: yes
 
 
-[slide]
 # Git 使用
 #### <small><a href="https://github.com/HerbertKarajan/">@Karajan</a></small>
----
-## <a class="btn btn-lg btn-success" style="font-size:20px;" href="https://github.com/HerbertKarajan/Git-Tutorial">Download PPT</a>
 
-[slide]
+
 ## 目录
 ---
 - Git 本地操作 {:&.rollIn}
 - Git 远程协作
 - Git 图形化工具的使用
 
-[slide]
+
 ## 学习资料
 - 入门篇
     - Git 简明教程  
